@@ -1,0 +1,14 @@
+#include <iostream>
+
+int main (){
+
+int a,b,c;
+cout << "dame el primer número";
+cin a;
+cout << "dame el segundo número";
+cin b;
+c = a+b;
+cout << c;
+
+return 0;
+}
